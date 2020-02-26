@@ -1,5 +1,5 @@
 {
-  "name": "ngx-international-phone-number2",
+  "name": "tranxfer-ngx-international-phone-number3",
   "version": "1.2.4",
   "scripts": {
     "build": "gulp build",
@@ -16,12 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/esoyke/ngx-international-phone-number2"
+    "url": "git+https://github.com/esoyke/ngx-international-phone-number2.git"
   },
-  "author": {
-    "name": "Eric Soyke",
-    "email": "soykes@yahoo.com"
-  },
+  "author": "Eric Soyke <soykes@yahoo.com>",
   "keywords": [
     "angular"
   ],
@@ -77,5 +74,11 @@
     "angular2-text-mask": "^9.0.0",
     "google-libphonenumber": "^3.2.2",
     "tsickle": "^0.34.3"
+  },
+  "description": "A simple international telephone number input. Allows you to create a phone number field with country dropdown.",
+  "homepage": "https://github.com/esoyke/ngx-international-phone-number2#readme",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
   }
 }
