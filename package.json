@@ -1,6 +1,6 @@
 {
   "name": "tranxfer-ngx-international-phone-number3",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esoyke/ngx-international-phone-number2.git"
+    "url": "git+https://github.com/Tranxfer/ngx-international-phone-number3/.git"
   },
-  "author": "Eric Soyke <soykes@yahoo.com>",
+  "author": "Albert Mantaras <>",
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/esoyke/ngx-international-phone-number2/issues"
+    "url": "https://github.com/Tranxfer/ngx-international-phone-number3/issues"
   },
   "devDependencies": {
     "@angular/common": "^7.2.15",
