@@ -36,7 +36,7 @@ const VALIDATOR = {
 };
 
 @Component({
-    selector: 'international-phone-number2',
+    selector: 'tranxfer-ngx-international-phone-number3',
     templateUrl: './phone-number.component.html',
     styleUrls: ['./phone-number.component.scss', './assets/css/flags.min.css'],
     host: {
